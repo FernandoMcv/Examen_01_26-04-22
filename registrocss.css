@@ -1,0 +1,11 @@
+#register{
+
+    width: 500px;
+
+}
+#box{
+    border: 50px;
+    display: flex;
+    margin-left: 30px;
+    margin-right: 50px;
+}
